@@ -1,0 +1,165 @@
+# jemdoc: menu{MENU}{index.html} 
+# jemdoc: nofooter
+= Zehua Guo
+#[https://jemnz.com/ Jacob Mattingley] ([www@jemnz.com])
+
+~~~
+{}{img_left}{figures/guo.jpg}{alt text}
+
+Professor \n
+Ph.D. Supervisor \n
+[http://ac.bit.edu.cn/index.htm School of Automation] \n
+[http://www.bit.edu.cn/ Beijing Institute of Technology] \n
+
+Office: Room 525, Teaching Building 6 \n
+Address: 5 Zhongguancun South, Beijing, 100081, China \n
+Email: [guo@bit.edu.cn guo@bit.edu.cn] \n
+[https://scholar.google.com/citations?user=b0bPSfcAAAAJ&hl=en Google Scholar] \n
+~~~
+
+I received B.S. degree from [https://www.nwpu.edu.cn/ Northwestern Polytechnical University], M.S. degree from [https://www.xidian.edu.cn/ Xidian University], and Ph.D. degree from [https://www.nwpu.edu.cn/ Northwestern Polytechnical University]. I was a Research Fellow at [https://engineering.nyu.edu/academics/departments/electrical-and-computer-engineering Department of Electrical and Computer Engineering], [https://engineering.nyu.edu/ New York University Tandon School of Engineering], a Research Manager at [http://www.chinacache.com/ ChinaCache], a Senior Software Engineer at [https://www.didiyun.com/ DidiChuxing], a Post-Doctoral Research Associate at [https://www.cs.umn.edu/ Department of Computer Science and Engineering], [https://twin-cities.umn.edu/ University of Minnesota Twin Cities], and a Visiting Associate Professor at [https://istd.sutd.edu.sg/ Pillar of Information Systems Technology and Design], [https://www.sutd.edu.sg/ Singapore University of Technology and Design].
+
+*I am looking for self-motivated Ph.D.\/master\/undergraduate students to join my group. Please email me your CV if you are interested.*
+
+
+#~~~
+#Version +0.7.3+ was released on 2012-11-27 with some small bug #fixes.
+#See the [revision.html release notes].
+#~~~
+
+#[https://github.com/jem/jemdoc Contribute to jemdoc on github.]
+
+== Research Interests
+- Programmable Network
+-- Software-Defined Networking (SDN)
+-- Network Function Virtualization (NFV)
+-- Congestion Control
+- Machine Learning
+-- Machine Learning for Networks (e.g., Data Center Network, Wide Area Network, Edge Computing)
+-- Distributed Machine Learning
+-- Federated Learning
+# - Data Center Network and Cloud Computing
+# - Edge Computing and Content Delivery Network
+- Network Security
+
+# jemdoc: menu{MENU}{contactme.html}, showsource
+== News
+- 7\/2024: Invited to serve as TPC of ISPA 2024.
+- 7\/2024: EPIC is accepted by TON (CCF A).
+- 7\/2024: Invited to serve as TPC of HPCC 2024.
+- 4\/2024: DINA and Hierarchical Sketch are accepted by IWQoS (CCF B).
+- 4\/2024: TEACHER is accepted by TON (CCF A).
+- 4\/2024: DeepTE is accepted by ICDCS (CCF B).
+- 4\/2024: One paper is accepted by TNSM (JCR Q1).
+- 2\/2024: Invited to serve as TPC of GLOBECOM 2024.
+- 2\/2024: One paper on Distributed Machine Learning is accepted by IEEE Network Magazine (JCR Q1).
+- 2\/2024: Halflife is accepted by EuroSys 2024 (CCF A).
+- 2\/2024: Invited to serve as TPC of IWQoS 2024.
+- 2\/2024: One paper is accepted by IEEE Communications Magazine (JCR Q1).
+- 1\/2024: ARES is accepted by WWW 2024 (CCF A).
+- 12\/2023: Invited to serve as TPC of ICDCS 2024.
+- 12\/2023: Invited to serve as TPC of ICCCN 2024.
+- 11\/2023: 3rd year master student Li Qi received Graduate National Scholarship.
+- 11\/2023: Invited to serve as TPC of ICC 2024.
+- 11\/2023: PREDATOR is accepted by Computer Networks (CCF B).
+- 11\/2023: THOR is accepted by TNSM (JCR Q1).
+- 8\/2023: Invited to serve as TPC and publication chair of IEEE Satellite 2023.
+- 7\/2023: Roracle is accepted by ICNP (CCF B).
+- 7\/2023: Invited to serve as TPC of ICPADS 2023.
+- 6\/2023: Prophet is accepted by TON (CCF A).
+- 6\/2023: 3rd year master students Jiayu Wang and Changlin Li are named Outstanding Graduate of BIT, and Jiayu is also named Outstanding Graduate of Beijing.
+- 5\/2023: PG is accepted by TON (CCF A).
+- 5\/2023: Invited to serve as TPC of GLOBECOM 2023.
+- 4\/2023: VirtPDP is accepted by IEEE Network (JCR Q1).
+- 3\/2023: RateSheriff and QoS-RL are accepted by IWQoS 2023 (CCF B).
+- 2\/2023: Named as the Supervisor for Outstanding Master's Thesis of Chinese Institute of Electronics 2022 \[[https://www.cie.org.cn/list_43/11180.html link]\].
+- 2\/2023: PE is accepted by TON (CCF A).
+- 1\/2023: Invited to serve as TPC of IWQoS 2023.
+- 12\/2022: Named as World's Top 2% Scientist by Stanford University \[[https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/5 link]\].
+- 12\/2022: LARRI is accepted by INFOCOM 2023 (CCF A).
+- 11\/2022: FlexPM is accepted by TON (CCF A).
+- 11\/2022: Research assistant Yijun Sun is accepted by the Ph.D. program of Hong Kong University of Science and Technology with full scholarship.
+- 11\/2022: 1st year master student Jiaxin Tan received Excellent Bachelor Thesis Award of Beijing (2/280).
+- 10\/2022: 3rd year master student Jiayu Wang is named Outstanding Student of BIT and received Graduate National Scholarship.
+- 10\/2022: Invited to serve as TPC of ICCCN 2023.
+- 9\/2022: 1st year master student Jiaxin Tan received Excellent Undergraduate Graduation Design of Beijing Institute of Technology.
+- 9\/2022: FlexDATE is accepted by TON (CCF A).
+- 6\/2022: Invited to serve as TPC of ICC 2023.
+- 6\/2022: 3rd year master student Songshi Dou is awarded the Outstanding Master's Thesis of BIT.
+- 6\/2022: FlexEntry is accepted by JSAC (CCF A).
+- 6\/2022: 3rd year master student Songshi Dou is named Outstanding Graduate of BIT. Senior student Jiaxin Tan is named Outstanding Undergraduate of BIT.
+- 5\/2022: One paper is accepted by IEEE Transactions on Circuits and Systems II: Express Briefs.
+- 5\/2022: Invited to serve as TPC of ICPADS 2022.
+# - 5\/2022: One paper is accepted by Journal of Electronics and Information Technology.
+- 5\/2022: 3rd year master student Songshi Dou is accepted by the Ph.D. program of University of Toronto with full scholarship.
+# - 5\/2022: One paper is accepted by Ad Hoc Networks.
+- 5\/2022: One paper on network function state analysis is accepted by IEEE Network (JCR Q1).
+- 4\/2022: Elevated to CCF Senior Member.
+- 4\/2022: ERA is accepted by ICDCS 2021 (CCF B).
+- 3\/2022: SDN-ESRC is accepted by TNSM (JCR Q1).
+- 3\/2022: One paper is accepted by JNCA (JCR Q1).
+- 2\/2022: FLASH is accepted by TCC (JCR Q1).
+- 2\/2022: SpongeTraining is accepted by TMC (CCF A).
+- 1\/2022: Invited to serve as TPC of ITC 2022.
+- 1\/2022: Invited to serve as TPC of GLOBECOM 2022.
+# - 1\/2022: One paper is accepted by SCIENCE CHINA Information Sciences.
+- 12\/2021: SFP is accepted by IPDPS 2022 (CCF B). 
+- 12\/2021: Invited to serve as Session Chair of ICPADS 2021.
+- 12\/2021: ABS is accepted by INFOCOM 2022 (CCF A).
+- 11\/2021: 1st year master student Li Qi received Excellent Bachelor Thesis Award of Beijing (3/280).
+- 10\/2021: 3rd year master student Songshi Dou is named Outstanding Student of BIT and received Graduate National Scholarship (1/200).
+- 10\/2021: 2nd year master students Jiayu Wang and Changlin Li are named Excellent Students of BIT and received First-class Scholarship.
+- 10\/2021: Invited to serve as TPC of ICCCN 2022.
+- 10\/2021: RetroFlow+ is accepted by TON (CCF A).
+- 10\/2021: ScaleDeep is accepted by TON (CCF A).
+- 9\/2021: 1st year master student Li Qi received Excellent Undergraduate Graduation Design of Beijing Institute of Technology.
+- 9\/2021: Invited to serve as TPC of ICA3PP 2021.
+- 9\/2021: Received 2021 ACM SIGCOMM China Rising Star Award.
+- 7\/2021: FedTE is accepted by ICNP 2021 (CCF B).
+- 7\/2021: SDNShield is accepted by TON (CCF A).
+- 7\/2021: HERO is accepted by ICWS 2021 (CCF B).
+- 6\/2021: Invited to serve as TPC of ICC 2022.
+- 6\/2021: Invited to serve as Session Chair of IWQoS 2021.
+- 6\/2021: Invited to serve as TPC of ICPADS 2021.
+- 6\/2021: CQ is accepted by ICPP 2021 (CCF B).
+- 4\/2021: DATE is accepted by IWQoS 2021 (CCF B).
+- 4\/2021: HybridFlow is accepted by TCOM (CCF B).
+- 3\/2021: Matchmaker is accepted by Computer Networks (CCF B).
+- 3\/2021: ProgrammabilityMedic is accepted by ICDCS 2021 (CCF B).
+# - 2\/2021: Invited to serve as TPC of Bigcom 2021.
+- 1\/2021: ScaleDRL is accepted by Computer Networks (CCF B).
+- 1\/2021: Invited to serve as TPC of IWQoS 2021.
+- 1\/2021: Invited to serve as Session Chair of IJCAI 2020.
+- 12\/2020: One paper is accepted by Journal of Computational Science.
+- 12\/2020: Invited to serve as TPC of ITC 2021.
+- 11\/2020: Invited to serve as TPC of ICCCN 2021.
+- 9\/2020: One paper is accepted by Computer Networks (CCF B).
+- 9\/2020: One project is supported by NSFC.
+# - 9\/2020: One paper is accepted by IEEE Communications Letter.
+- 9\/2020: Invited to serve as TPC of AAAI 2021.
+# - 9\/2020: One paper is accepted by IEEE Communications Letter.
+- 8\/2020: Invited to serve as Associate Editor for the IEEE Systems Journal.
+- 8\/2020: AggreFlow is accepted by TON (CCF A).
+# - 8\/2020: One poster is accepted by ICNP 2020.
+- 8\/2020: Invited to serve as TPC of ICC 2021.
+# - 6\/2020: One paper is accepted by Springer Computing.
+- 5\/2020: SmartEntry is accepted by NetAI 2020.
+- 4\/2020: One paper is accepted by IJCAI 2020 (CCF A).
+- 4\/2020: ProgrammabilityGuardian is accepted by IWQoS 2020 (CCF B).
+- 4\/2020: One paper is accepted by Computer Networks (CCF B).
+- 4\/2020: Invited to serve as TPC of ICCCN 2020.
+- 3\/2020: One paper is accepted by FGCS (JCR Q1).
+- 3\/2020: MARVEL is accepted by Computer Networks (CCF B).
+# - 3\/2020 Serving on the PC of ICA3PP, CSCloud 2020, SmartCloud 2020, and SPDE 2020.
+- 3\/2020: CFR-RL is accepted by JSAC (CCF A).
+- 2\/2020: Elevated to IEEE Senior Member.
+- 1\/2020: Two papers are accepted by ICC 2020.
+- 1\/2020: Two papers are accepted by ICASSP 2020 (CCF B).
+# -- *``Finite-Time Error Bounds for Biased Stochastic Approximation Algorithms with Application to /Q/-Learning''* This paper develops a multistep Lyapunov approach for non-asymptotic analysis of biased stochastic approximation. When applying our results to TD- and Q-learning with (non)linear function approximation, we provide the first finite-time error bounds for TD- and Q-learning that hold from the first iteration and Markov chains starting with any initial distribution.
+# -- *``Finite-Time Analysis of Decentralized Temporal-Difference Learning with Linear Function Approximation''* This paper develops the first finite-time error bound for fully decentralized TD-learning under Markovian data samples.  
+
+
+
+
+
+
