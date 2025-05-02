@@ -1,0 +1,98 @@
+# jemdoc: menu{MENU}{index.html} 
+# jemdoc: nofooter
+= Zehua Guo
+#[https://jemnz.com/ Jacob Mattingley] ([www@jemnz.com])
+
+~~~
+{}{img_left}{figures/guo.jpg}{alt text}
+
+Professor \n
+Ph.D. Supervisor \n
+[http://ac.bit.edu.cn/index.htm School of Automation] \n
+[http://www.bit.edu.cn/ Beijing Institute of Technology] \n
+
+Office: Room 525, Teaching Building 6 \n
+Address: 5 Zhongguancun South, Beijing, 100081, China \n
+Email: [guo@bit.edu.cn guo@bit.edu.cn] \n
+[https://scholar.google.com/citations?user=b0bPSfcAAAAJ&hl=en Google Scholar] \n
+~~~
+
+I received B.S. degree from [https://www.nwpu.edu.cn/ Northwestern Polytechnical University], M.S. degree from [https://www.xidian.edu.cn/ Xidian University], and Ph.D. degree from [https://www.nwpu.edu.cn/ Northwestern Polytechnical University]. I was a Research Fellow at [https://engineering.nyu.edu/academics/departments/electrical-and-computer-engineering Department of Electrical and Computer Engineering], [https://engineering.nyu.edu/ New York University Tandon School of Engineering], a Research Manager at [http://www.chinacache.com/ ChinaCache], a Senior Software Engineer at [https://www.didiyun.com/ DidiChuxing], a Post-Doctoral Research Associate at [https://www.cs.umn.edu/ Department of Computer Science and Engineering], [https://twin-cities.umn.edu/ University of Minnesota Twin Cities], and a Visiting Associate Professor at [https://istd.sutd.edu.sg/ Pillar of Information Systems Technology and Design], [https://www.sutd.edu.sg/ Singapore University of Technology and Design].
+
+*I am looking for self-motivated Ph.D.\/master\/undergraduate students to join my group. Please email me your CV if you are interested.*
+
+
+#~~~
+#Version +0.7.3+ was released on 2012-11-27 with some small bug #fixes.
+#See the [revision.html release notes].
+#~~~
+
+#[https://github.com/jem/jemdoc Contribute to jemdoc on github.]
+
+== Research Interests
+- Programmable Network
+-- Software-Defined Networking (SDN)
+-- Network Function Virtualization (NFV)
+-- Congestion Control
+- Machine Learning
+-- Machine Learning for Networks (e.g., Data Center Network, Wide Area Network, Edge Computing)
+-- Distributed Machine Learning
+-- Federated Learning
+# - Data Center Network and Cloud Computing
+# - Edge Computing and Content Delivery Network
+- Network Security
+
+# jemdoc: menu{MENU}{contactme.html}, showsource
+
+
+== News
+- 9\/2021: Invited to serve as TPC of ICA3PP 2021.
+- 9\/2021: Received ACM SIGCOMM China Rising Star Award.
+- 7\/2021: FedTE is accepted by ICNP 2021 (CCF B).
+- 7\/2021: SDNShield is accepted by TON (CCF A).
+- 7\/2021: HERO is accepted by ICWS 2021 (CCF B).
+- 6\/2021: Invited to serve as TPC of ICC 2022.
+- 6\/2021: Invited to serve as Session Chair of IWQoS 2021.
+- 6\/2021: Invited to serve as TPC of ICPADS 2021.
+- 6\/2021: CQ is accepted by ICPP 2021 (CCF B).
+- 4\/2021: DATE is accepted by IWQoS 2021 (CCF B).
+- 4\/2021: HybridFlow is accepted by IEEE Transactions on Communications (CCF B).
+- 3\/2021: Matchmaker is accepted by Computer Networks (CCF B).
+- 3\/2021: ProgrammabilityMedic is accepted by ICDCS 2021 (CCF B).
+- 2\/2021: Invited to serve as TPC of Bigcom 2021.
+- 1\/2021: ScaleDRL is accepted by Computer Networks (CCF B).
+- 1\/2021: Invited to serve as TPC of IWQoS 2021.
+- 1\/2021: Invited to serve as Session Chair of IJCAI 2020.
+- 12\/2020: One paper is accepted by Journal of Computational Science.
+- 12\/2020: Invited to serve as TPC of ITC 2021.
+- 11\/2020: Invited to serve as TPC of ICCCN 2021.
+- 9\/2020: One paper is accepted by Computer Networks (CCF B).
+- 9\/2020: One project is supported by NSFC.
+- 9\/2020: One paper is accepted by IEEE Communications Letter.
+- 9\/2020: Invited to serve as TPC of AAAI 2021.
+- 9\/2020: One paper is accepted by IEEE Communications Letter.
+- 8\/2020: Invited to serve as Associate Editor for the IEEE Systems Journal.
+- 8\/2020: AggreFlow is accepted by TON (CCF A).
+- 8\/2020: One poster is accepted by ICNP.
+- 8\/2020: Invited to serve as TPC of ICC 2021.
+- 6\/2020: One paper is accepted by Springer Computing.
+- 5\/2020: SmartEntry is accepted by NetAI 2020.
+- 4\/2020: One paper is accepted by IJCAI 2020 (CCF A).
+- 4\/2020: ProgrammabilityGuardian is accepted by IWQoS 2020 (CCF B).
+- 4\/2020: One paper is accepted by Computer Networks (CCF B).
+- 4\/2020: Invited to serve as TPC of ICCCN 2020.
+- 3\/2020: One paper is accepted by FGCS.
+- 3\/2020: MARVEL is accepted by Computer Networks (CCF B).
+# - 3\/2020 Serving on the PC of ICA3PP, CSCloud 2020, SmartCloud 2020, and SPDE 2020.
+- 3\/2020: CFR-RL is accepted by JSAC (CCF A).
+- 2\/2020: Elevated to IEEE Senior Member.
+- 1\/2020: Two papers are accepted by ICC 2020.
+- 1\/2020: Two papers are accepted by ICASSP 2020 (CCF B).
+# -- *``Finite-Time Error Bounds for Biased Stochastic Approximation Algorithms with Application to /Q/-Learning''* This paper develops a multistep Lyapunov approach for non-asymptotic analysis of biased stochastic approximation. When applying our results to TD- and Q-learning with (non)linear function approximation, we provide the first finite-time error bounds for TD- and Q-learning that hold from the first iteration and Markov chains starting with any initial distribution.
+# -- *``Finite-Time Analysis of Decentralized Temporal-Difference Learning with Linear Function Approximation''* This paper develops the first finite-time error bound for fully decentralized TD-learning under Markovian data samples.  
+
+
+
+
+
+

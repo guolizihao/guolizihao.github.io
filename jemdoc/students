@@ -1,0 +1,34 @@
+# jemdoc: menu{MENU}{students.html}
+# jemdoc: nofooter
+= Students
+
+== Ph.D. Students
+- Wendi Feng, BUPT/UMN, Fall 2019 - present, on SD-WAN and hyrbid SDN (co-supervised with Prof. Junlian Chen at BUPT and Prof. Zhi-Li Zhang at UMN)
+- Penghao Sun, NDSC, Spring 2019 - present, on machine learning for networking (co-supervised with Prof. Julong Lan)
+- Minghao Ye, NYU, Spring 2019 - present, on machine learning for networking (co-supervised with Prof. Jonathan Chao)
+ 
+= Master's Students
+- Songshi Dou, BIT, Fall 2019 - present, on SD-WAN #SDN resilience
+
+= Undergraduate Students
+- Jiayu Wang, Northeastern University, Fall 2019 - present, on distributed machine learning
+- Ning Han, BIT, Spring 2020 - present, on machine learing for networking 
+- Yuntian Zhang, BIT, Spring 2020 - present, on machine learing for networking 
+- Yijun Sun, BIT, Spring 2020 - present, on hybrid SDN and CDN 
+- Weiran Wu, BIT, Spring 2020 - present, on NFV 
+- Yufeng He, BIT, Spring 2020 - present, on NFV
+- Haoran Ni, BIT, Spring 2020 - present, on SD-WAN #SDN resilience
+- Yi Wu, BIT, Spring 2020 - present, on edge computing
+- Bodong Zhang, BIT, Spring 2020 - present, on SD-WAN
+
+= Alumni:
+I have worked with these talented students/RA:
+- Shufeng Hui, RA, NYU -> Amazon -> Cruise
+- Mu Su, RA, NYU -> Cisco -> Fortinet
+- Luo Wang, RA, NYU -> Cisco -> Barracude Networks
+- Mingjian Liu, RA, NYU -> Cisco -> Pinterest
+- Ruoyan Liu, RA, NYU -> Amazon
+- Yang Lu, RA, NYU -> ZTE
+- Zicheng Wang, RA, NYU -> Fortinet
+- Xuyan Jia, PhD, Tsinghua -> Huawei (Talent Youth Program)
+- Tao Hu, Master, NDSC -> PhD student at NDSC
